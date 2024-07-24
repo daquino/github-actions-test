@@ -1,2 +1,2 @@
 # github-actions-test
-Testing out github actions on a personal account
+Just testing out github actions
